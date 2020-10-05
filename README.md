@@ -14,3 +14,6 @@ Esta aplicación consume 2 apis:
 
 ## Como utilizarlo 
 Para utilizar la aplicación solamente tienes que intrudicir tu *api key* donde dice "COLOCAR_API_KEY" en el index.html. Para conseguir una api key puedes ingresar al siguiente link. [Conseguir api key](https://developers.google.com/maps/documentation/directions/get-api-key)
+
+## Preview
+![](assets/image/map_details.png)
