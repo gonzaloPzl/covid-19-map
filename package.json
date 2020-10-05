@@ -1,0 +1,17 @@
+{
+  "name": "covid-19-map",
+  "version": "1.0.0",
+  "description": "covid 19 map",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "vanilla",
+    "css",
+    "html"
+  ],
+  "author": "gonzalo pozoli\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[P\u001b[C\u001b[Cz\u001b[D\u001b[Coli\u001b[D\u001b[1;5D\u001b[1;5D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[Dg\u001b[D\u001b[C\u001b[Do\u001b[D\u001b[DG\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C",
+  "license": "MIT"
+}
